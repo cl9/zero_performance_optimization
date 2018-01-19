@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">leakmemory</string>
+    <string name="click_to">点击进入集合的下一个Activity</string>
+    <string name="show_toast">点击弹出消息</string>
+    <string name="click_net">点击从网络获取</string>
+</resources>
